@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(94, 202, 207);
+}
+
+.container {
+    text-align: center;
+}
+
+.clock {
+    font-size: 3em;
+}
+
+.alarm-section {
+    margin-top: 20px;
+}
